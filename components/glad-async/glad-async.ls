@@ -1,0 +1,1 @@
+Polymer.GladAsync = require \async

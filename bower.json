@@ -1,0 +1,27 @@
+{
+  "name": "glad-async",
+  "version": "0.0.2",
+  "authors": [
+    "akihitofujiwara <a-fujiwara@glad-cube.com>"
+  ],
+  "description": "",
+  "main": [
+    "glad-async.html"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "components",
+    "build.js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.3.1"
+  }
+}
